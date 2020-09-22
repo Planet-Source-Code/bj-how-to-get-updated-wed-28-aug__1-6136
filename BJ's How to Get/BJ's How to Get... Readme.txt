@@ -1,0 +1,38 @@
+0-1: Unzip the .zip file to a directory of your choice.
+0-2: Directories created will be as below.
+0-3: Eg... Extracted to C:\ you will get. 
+0-4: C:\ BJ's How to Get with 17 sub Directories.
+
+1-0: You must have msinet.ocx to run BJ's Basic Calender to update with the Atomic Clock.
+1-1: msinet.ocx should be found in your Windows\System folder or your Windows\System32 folder.
+1-2: Register ShellLnk.dll (Found in BJ's Basic Calender) Directory.
+1-3: Add Reference to ShellLnk.tlb (Found in BJ's Basic Calender) Directory.
+1-4: Register BJ's Progress Bar.ocx. (Found in BJ's How to Get) Directory.
+1-5: You can now run these applications with * next to them.
+
+Information on what you find in BJ's How to Get...      The Directory you can find them in
+
+00: How to Get All				-   (BJ's How to Get)*
+01: How to make a Basic Calendar. 		- 	(BJ's Basic Calendar)*
+02: How to get colours. 			- 	(BJ's Colours)
+03: How to Copy Files. 				- 	(BJ's Copy File)
+04: How to Delete Files. 			-	(BJ's Delete Files)
+05: How to Disable the [X] on the top form. 	- 	(BJ's Disable Close Button)
+06: How to add info to E-Mail. 			- 	(BJ's E-Mail)
+07: How to make an Image Combo. 		- 	(BJ's Image Combo)
+08: How to make an .ini file. 			- 	(BJ's Make INI)
+09: How to Use a Multi Undo. 			- 	(BJ's Multi Undo)
+10: How to make a Popup Menu. 			- 	(BJ's Popup Menu)
+11: How to access the Registry. 		- 	(BJ's Reg Example)
+12: How to Rename Files. 			- 	(BJ's Rename Files)
+13: How to access the Systems About Box. 	-	(BJ's System About Box)
+14: How to get an elapsed time. 		- 	(BJ's Time Elapse)
+15: How to add an Icon to the Icon Tray. 	- 	(BJ's Tray Icon)
+16: How to make you own Trial Application. 	- 	(BJ's Trial Version)*
+17: How to get the Windows Directory. 		- 	(BJ's Windows Directory)
+
+If you have anything in mind to add to this just E-Mail me. Click on E-Mail on any of my apps.
+
+Thanks BJ... bryce3@bigpond.com
+
+Works running on Windows 98, ME, XP. Should work on other Windows Versions.
